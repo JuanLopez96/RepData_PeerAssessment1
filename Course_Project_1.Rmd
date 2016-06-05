@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research - Course Project 1"
-author: "Juan López Martín"
+author: "Juan LÃ³pez MartÃ­n"
 output:
   html_document:
     theme: cosmo
